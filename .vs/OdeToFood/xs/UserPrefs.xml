@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{0ECDA5A5-052D-4A5B-B182-A9878BD48FDC}|Default">
+  <MonoDevelop.Ide.ItemProperties.OdeToFood PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OdeToFood" expanded="True">
+            <Node name="OdeToFood" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Api" expanded="True" />
+              <Node name="node_modules" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Restaurants" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+            <Node name="OdeToFood.Core" expanded="True" />
+            <Node name="OdeToFood.Data" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

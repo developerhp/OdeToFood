@@ -1,0 +1,9 @@
+/Users/hinaayaz/Projects/OdeToFood/OdeToFood.Core/bin/Debug/netcoreapp3.1/OdeToFood.Core.deps.json
+/Users/hinaayaz/Projects/OdeToFood/OdeToFood.Core/bin/Debug/netcoreapp3.1/OdeToFood.Core.dll
+/Users/hinaayaz/Projects/OdeToFood/OdeToFood.Core/bin/Debug/netcoreapp3.1/OdeToFood.Core.pdb
+/Users/hinaayaz/Projects/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp3.1/OdeToFood.Core.csprojAssemblyReference.cache
+/Users/hinaayaz/Projects/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp3.1/OdeToFood.Core.AssemblyInfoInputs.cache
+/Users/hinaayaz/Projects/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp3.1/OdeToFood.Core.AssemblyInfo.cs
+/Users/hinaayaz/Projects/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp3.1/OdeToFood.Core.csproj.CoreCompileInputs.cache
+/Users/hinaayaz/Projects/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp3.1/OdeToFood.Core.dll
+/Users/hinaayaz/Projects/OdeToFood/OdeToFood.Core/obj/Debug/netcoreapp3.1/OdeToFood.Core.pdb
